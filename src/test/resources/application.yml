@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    username: root
+    type: org.apache.tomcat.jdbc.pool.DataSource
+    password: 123456!@#$%^qwerty
+    url: jdbc:mariadb://47.104.87.184:3306/selfdb
+

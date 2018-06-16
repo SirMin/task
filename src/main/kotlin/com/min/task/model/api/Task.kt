@@ -1,4 +1,4 @@
-package com.min.task.model
+package com.min.task.model.api
 
 import com.fasterxml.jackson.annotation.JsonProperty
 

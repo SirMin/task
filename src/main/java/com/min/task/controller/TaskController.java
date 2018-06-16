@@ -1,6 +1,6 @@
 package com.min.task.controller;
 
-import com.min.task.model.Task;
+import com.min.task.model.api.Task;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
